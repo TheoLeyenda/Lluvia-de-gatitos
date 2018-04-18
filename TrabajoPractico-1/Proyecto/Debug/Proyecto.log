@@ -1,0 +1,11 @@
+﻿  Proyec-1.cpp
+c:\users\administrador\desktop\tp1\trabajopractico-1\proyecto\proyec-1.cpp(82): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\administrador\desktop\tp1\trabajopractico-1\proyecto\proyec-1.cpp(86): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\administrador\desktop\tp1\trabajopractico-1\proyecto\proyec-1.cpp(90): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\administrador\desktop\tp1\trabajopractico-1\proyecto\proyec-1.cpp(94): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\administrador\desktop\tp1\trabajopractico-1\proyecto\proyec-1.cpp(98): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\administrador\desktop\tp1\trabajopractico-1\proyecto\proyec-1.cpp(145): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\administrador\desktop\tp1\trabajopractico-1\proyecto\proyec-1.cpp(174): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\administrador\desktop\tp1\trabajopractico-1\proyecto\proyec-1.cpp(258): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\administrador\desktop\tp1\trabajopractico-1\proyecto\proyec-1.cpp(269): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  Proyecto.vcxproj -> C:\Users\Administrador\Desktop\TP1\TrabajoPractico-1\Debug\Proyecto.exe

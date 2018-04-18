@@ -1,0 +1,14 @@
+﻿  Proyec-1.cpp
+Proyec-1.cpp(82): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+Proyec-1.cpp(86): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+Proyec-1.cpp(90): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+Proyec-1.cpp(94): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+Proyec-1.cpp(98): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+Proyec-1.cpp(145): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+Proyec-1.cpp(174): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+Proyec-1.cpp(258): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+Proyec-1.cpp(269): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  Generando código
+  All 90 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+  Proyecto.vcxproj -> C:\Users\Administrador\Desktop\TP1\TrabajoPractico-1\x64\Release\Proyecto.exe
